@@ -1,0 +1,35 @@
+
+
+header {
+  background-color: rgb(67, 146, 250);
+  height: 10vh;
+}
+
+.content {
+  background-color: purple;
+  height: 80vh;
+  width: 80vw;
+  line-height: 80%
+}
+
+.id {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.buttons {
+  display: flex;
+  justify-content: space-between
+}
+
+.content-container {
+  display: flex;
+  justify-content: center;
+
+}
+
+.info {
+  position: absolute;
+  left: 20vw;
+  
+}
